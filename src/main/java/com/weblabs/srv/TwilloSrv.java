@@ -5,8 +5,8 @@ import com.twilio.rest.api.v2010.account.Message;
 
 public class TwilloSrv {
 
-    private static final String TWILIO_ACCOUNT_SID = "AC680a943a65d756365f73c7b69ea04d69";
-    private static final String TWILIO_AUTH_TOKEN = "2e81f7b7ba7a15694c9f2bb596bdc527";
+    private static final String TWILIO_ACCOUNT_SID = "";
+    private static final String TWILIO_AUTH_TOKEN = "";
 
     public void sendOtp(String phno, String otp) {
 
